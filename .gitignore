@@ -1,0 +1,17 @@
+# 파이썬 환경
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE
+.vscode/
+
+# 가상 환경
+venv/
+env/
+.venv/
+.env/
+
+# 데이터
+*.csv
